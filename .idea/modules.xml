@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CS311T_U1_SubNode_RafsanBhuiyan.iml" filepath="$PROJECT_DIR$/../CS311T_U1_SubNode_RafsanBhuiyan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CS311T_U3_subNode_RafsanBhuiyan-CS311T_U1_SubNode_RafsanBhuiyan.iml" filepath="$PROJECT_DIR$/../CS311T_U3_subNode_RafsanBhuiyan-CS311T_U1_SubNode_RafsanBhuiyan.iml" group="CS311T_U1_SubNode_RafsanBhuiyan" />
+      <module fileurl="file://$PROJECT_DIR$/app.iml" filepath="$PROJECT_DIR$/app.iml" group="CS311T_U1_SubNode_RafsanBhuiyan/app" />
+    </modules>
+  </component>
+</project>

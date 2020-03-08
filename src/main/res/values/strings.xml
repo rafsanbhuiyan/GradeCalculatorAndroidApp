@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CS311T_U1_SubNode_RafsanBhuiyan</string>
+    <string name="letter_grade">Letter Grade</string>
+    <string name="max_grade">Max Grade</string>
+    <string name="subject_3">Subject 3</string>
+    <string name="subject_2">Subject 2</string>
+    <string name="subject_1">Subject 1</string>
+    <string name="grade_calculator">Grade Calculator</string>
+    <string name="submit">Submit</string>
+    <string name="avg_grade">Avg. Grade</string>
+    <string name="min_grade" />
+    <string name="register_for_class">Register for Class</string>
+    <string name="Submit">Submit</string>
+    <string name="subject_name">Subject Name</string>
+</resources>
